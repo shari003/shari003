@@ -6,7 +6,7 @@
 
 ➣ I work with JavaScript for the most part, but I know how to use HTML/CSS, as well as CPP and Python. I like to use frameworks including Express, React.
 
-➣ You can contact me at: `shri.harii@hotmail.com`, my Discord `nolimitshri`, or my Twitter `@nolimitshri`.
+➣ You can contact me at: `shari003.works@gmail.com`, my Discord `nolimitshri`, or my Twitter `@nolimitshri`.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 💼 Current Developer/Maintainer Related Positions:
 
-- [Tutort Academy LLP](https://tutort.net) | Software Developer
+- [Tutort Academy LLP](https://tutort.net) | Software Developer II
 
 </details>
 
